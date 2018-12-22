@@ -1,0 +1,20 @@
+{
+  "ok":true,
+  "result":[{
+    "update_id":523349956,
+    "message":{
+      "message_id":51,
+      "from":{
+        "id":303262877,
+        "first_name":"YourName"
+      },
+      "chat":{
+        "id":303262877,
+        "first_name":"YourName",
+        "type":"private"
+      },
+      "date":1486829360,
+      "text":"Hello"
+    }
+  }]
+}
